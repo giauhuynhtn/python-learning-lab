@@ -1,0 +1,2 @@
+webserver.local: lane
+mailserver.local: chris
