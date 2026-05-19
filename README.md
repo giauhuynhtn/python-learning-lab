@@ -13,7 +13,7 @@ This repo contains my solutions and notes from exercises I completed while learn
 - Dictionaries
 - Functions
 - Loops and conditionals
-- File handling (add as you learn)
+- user-session-report 
 
 ## Repository Structure
 
