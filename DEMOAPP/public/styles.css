@@ -1,7 +1,0 @@
-/* Small touches beyond Tailwind utilities */
-#mood-chips button {
-  transition: transform 0.12s ease;
-}
-#mood-chips button:active {
-  transform: scale(0.97);
-}
