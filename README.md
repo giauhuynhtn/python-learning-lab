@@ -23,6 +23,7 @@ python-learning-lab/
 ├── lists/
 ├── dictionaries/
 ├── functions/
+├── user-session-report/
 └── README.md
 ```
 
